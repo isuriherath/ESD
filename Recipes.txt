@@ -6,5 +6,7 @@ Kottu
 Pasta
 Burger
 
+Submarine
+Pizza
 
 Thank you!
